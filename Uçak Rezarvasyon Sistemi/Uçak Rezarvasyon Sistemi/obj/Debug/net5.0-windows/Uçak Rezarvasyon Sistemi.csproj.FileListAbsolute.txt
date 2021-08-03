@@ -1,0 +1,19 @@
+C:\Users\Stajyer\source\repos\Uçak Rezarvasyon Sistemi\Uçak Rezarvasyon Sistemi\bin\Debug\net5.0-windows\Uçak Rezarvasyon Sistemi.exe
+C:\Users\Stajyer\source\repos\Uçak Rezarvasyon Sistemi\Uçak Rezarvasyon Sistemi\bin\Debug\net5.0-windows\Uçak Rezarvasyon Sistemi.deps.json
+C:\Users\Stajyer\source\repos\Uçak Rezarvasyon Sistemi\Uçak Rezarvasyon Sistemi\bin\Debug\net5.0-windows\Uçak Rezarvasyon Sistemi.runtimeconfig.json
+C:\Users\Stajyer\source\repos\Uçak Rezarvasyon Sistemi\Uçak Rezarvasyon Sistemi\bin\Debug\net5.0-windows\Uçak Rezarvasyon Sistemi.runtimeconfig.dev.json
+C:\Users\Stajyer\source\repos\Uçak Rezarvasyon Sistemi\Uçak Rezarvasyon Sistemi\bin\Debug\net5.0-windows\Uçak Rezarvasyon Sistemi.dll
+C:\Users\Stajyer\source\repos\Uçak Rezarvasyon Sistemi\Uçak Rezarvasyon Sistemi\bin\Debug\net5.0-windows\ref\Uçak Rezarvasyon Sistemi.dll
+C:\Users\Stajyer\source\repos\Uçak Rezarvasyon Sistemi\Uçak Rezarvasyon Sistemi\bin\Debug\net5.0-windows\Uçak Rezarvasyon Sistemi.pdb
+C:\Users\Stajyer\source\repos\Uçak Rezarvasyon Sistemi\Uçak Rezarvasyon Sistemi\obj\Debug\net5.0-windows\Uçak Rezarvasyon Sistemi.csproj.AssemblyReference.cache
+C:\Users\Stajyer\source\repos\Uçak Rezarvasyon Sistemi\Uçak Rezarvasyon Sistemi\obj\Debug\net5.0-windows\Uçak_Rezarvasyon_Sistemi.Form1.resources
+C:\Users\Stajyer\source\repos\Uçak Rezarvasyon Sistemi\Uçak Rezarvasyon Sistemi\obj\Debug\net5.0-windows\Uçak_Rezarvasyon_Sistemi.Properties.Resources.resources
+C:\Users\Stajyer\source\repos\Uçak Rezarvasyon Sistemi\Uçak Rezarvasyon Sistemi\obj\Debug\net5.0-windows\Uçak Rezarvasyon Sistemi.csproj.GenerateResource.cache
+C:\Users\Stajyer\source\repos\Uçak Rezarvasyon Sistemi\Uçak Rezarvasyon Sistemi\obj\Debug\net5.0-windows\Uçak Rezarvasyon Sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stajyer\source\repos\Uçak Rezarvasyon Sistemi\Uçak Rezarvasyon Sistemi\obj\Debug\net5.0-windows\Uçak Rezarvasyon Sistemi.AssemblyInfoInputs.cache
+C:\Users\Stajyer\source\repos\Uçak Rezarvasyon Sistemi\Uçak Rezarvasyon Sistemi\obj\Debug\net5.0-windows\Uçak Rezarvasyon Sistemi.AssemblyInfo.cs
+C:\Users\Stajyer\source\repos\Uçak Rezarvasyon Sistemi\Uçak Rezarvasyon Sistemi\obj\Debug\net5.0-windows\Uçak Rezarvasyon Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Stajyer\source\repos\Uçak Rezarvasyon Sistemi\Uçak Rezarvasyon Sistemi\obj\Debug\net5.0-windows\Uçak Rezarvasyon Sistemi.dll
+C:\Users\Stajyer\source\repos\Uçak Rezarvasyon Sistemi\Uçak Rezarvasyon Sistemi\obj\Debug\net5.0-windows\ref\Uçak Rezarvasyon Sistemi.dll
+C:\Users\Stajyer\source\repos\Uçak Rezarvasyon Sistemi\Uçak Rezarvasyon Sistemi\obj\Debug\net5.0-windows\Uçak Rezarvasyon Sistemi.pdb
+C:\Users\Stajyer\source\repos\Uçak Rezarvasyon Sistemi\Uçak Rezarvasyon Sistemi\obj\Debug\net5.0-windows\Uçak Rezarvasyon Sistemi.genruntimeconfig.cache

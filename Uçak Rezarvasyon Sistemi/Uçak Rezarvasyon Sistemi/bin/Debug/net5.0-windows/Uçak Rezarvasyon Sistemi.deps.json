@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Uçak Rezarvasyon Sistemi/1.0.0": {
+        "runtime": {
+          "Uçak Rezarvasyon Sistemi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uçak Rezarvasyon Sistemi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
